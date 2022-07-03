@@ -194,7 +194,7 @@ class Frontend extends React.Component
                 component: "multitype",
               	config: {
                           "type":"url",
-              			  		"data": "https://tap-ir.github.io/"
+              			  		"data": "https://tap-ir.github.io/#/?id=web-ui"
 					            	},
                 name: "Help " + nextGridIndex()
             });

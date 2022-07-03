@@ -93,7 +93,10 @@ export default class Login extends React.Component
     {
       return(
       <div style={{left : '50%', top : '30%', position : 'absolute', transform: "translate(-50%, -50%)"}} >
+        <center><img src="tapir.png" width="256" />
         <h1 style={{color : 'white' }}>Welcome to Tapir</h1>
+        
+        </center>
           <LoginForm formRef={this.formRef} onFinish={this.onFinish.bind(this)} error={this.state.error}/>
       </div>)
     }
