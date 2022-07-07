@@ -14,7 +14,7 @@
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "@zip.js/zip.js": "^2.4.3",
+    "@zip.js/zip.js": "2.4.3",
     "antd": "^4.17.3",
     "antd-table-infinity": "^1.1.6",
     "axios": "^0.24.0",
